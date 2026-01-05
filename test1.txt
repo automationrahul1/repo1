@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 88F1-3EA9
-
- Directory of C:\Users\rahul\Gittest
-
-2026-01-04  07:49 PM    <DIR>          .
-2026-01-04  07:46 PM    <DIR>          ..
-2026-01-04  07:49 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  142,349,418,496 bytes free
+this is first line
